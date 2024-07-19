@@ -1,0 +1,10 @@
+pytorch
+torchvision
+seaborn
+rasterio
+scikit-learn
+pandas
+numpy
+pillow
+matplotlib
+pkbar

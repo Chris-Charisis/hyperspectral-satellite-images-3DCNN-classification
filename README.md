@@ -1,1 +1,3 @@
-# hyperspectral-satellite-images-3DCNN-classification
+# Hyperspectral-Satellite-Images-3DCNN-Classification
+
+This repository contains an exercise for the Module Geospatial Big Data Analysis (GBDA) of Data Science and Machine Learning M.Sc. of NTUA. The goal is to train a custom CNN using 3D convolution layers in Pytorch, for classifying pixels in a Land Cover task. The dataset is private and provided by the professor for confidential use, so it is not included in this repository. All analysis is contained inside ***hyperspectral_3DCNN_classification.ipynb*** file, as per requirements for the module's submission. More details can be found in ***Geospatial_Data_Analysis_7th_Exercise_Report.pdf*** file.
